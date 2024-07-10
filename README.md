@@ -20,6 +20,10 @@
 
 **nf-core/rnaseq** is a bioinformatics pipeline that can be used to analyse RNA sequencing data obtained from organisms with a reference genome and annotation. It takes a samplesheet and FASTQ files as input, performs quality control (QC), trimming and (pseudo-)alignment, and produces a gene expression matrix and extensive QC report.
 
+
+Test1
+
+
 ![nf-core/rnaseq metro map](docs/images/nf-core-rnaseq_metro_map_grey.png)
 
 1. Merge re-sequenced FastQ files ([`cat`](http://www.linfo.org/cat.html))
